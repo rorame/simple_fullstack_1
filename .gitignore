@@ -2,6 +2,8 @@
 
 .idea
 
+setup.txt
+
 **.DS_Store
 **/__pycache__
 **/migrations/0*.py
